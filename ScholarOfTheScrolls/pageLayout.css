@@ -1,0 +1,128 @@
+body
+{
+	font: 10pt Verdana, Arial, Georgia, sans-serif;
+	background-color: #111;
+	overflow-x: hidden;
+	margin: 10px auto 10px auto;
+}
+
+p
+{
+	margin: 20px 10px 20px 10px;
+}
+
+h1
+{
+	text-align:center;
+}
+
+h2
+{
+	margin-left: 10px;
+}
+
+h3
+{
+	margin-left: 10px;
+	font-size: 12pt;
+}
+
+h3.footer
+{
+	text-align: center;
+	font-size: 10pt;
+}
+
+#header
+{
+	width: 85%;
+	margin: 10px auto 10px auto;
+	background: black;
+}
+
+#logo
+{
+	width: 100%;
+}
+
+img.banner
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+img.floatRight
+{
+	float: right;
+}
+
+a
+{
+	color: white;
+	font-weight: bold;
+}
+
+a:visited
+{
+	color: #555;
+}
+
+#contentContainer
+{
+	width: 85%;
+	clear: both;
+	margin: 10px auto 0px auto;
+	background: black;
+	color: white;
+	padding: 5px 0px 5px 0px;
+	overflow: auto;
+}
+
+#content
+{
+	width: 76%;
+	float: left;
+	padding: 20px 2% 20px 2%;
+	background: transparent;
+}
+
+#content a
+{
+	font-weight: bold;
+}
+
+#content h1
+{
+	text-align: left;
+}
+
+#linksColumn
+{
+	width: 20%;
+	float: right;
+	background: transparent;
+}
+
+#linksColumn a
+{
+	display: block;
+	text-align: center;
+	padding: 5px auto 5px auto;
+}
+
+#footer
+{
+	width: 85%;
+	background: black;
+	color: gray;
+	margin: 0px auto 10px auto;
+	clear: both;
+	padding: 5px 0px 5px 0px;
+}
+
+#footer h3
+{
+	text-align: center;
+	font-size: 10pt;
+}

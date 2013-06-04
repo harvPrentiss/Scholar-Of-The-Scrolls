@@ -1,0 +1,7 @@
+5/10 - Close to getting the basic design down. The dual column layout is still an issue. It won't line up correctly.
+	Have to review that in the books and also how to do a fixed/liquid hybrid layout. Then its on to creating content.
+
+5/13 - Fixed te column issue. I forgot to account for padding. I now need to create content for the pages. Also get down
+       a layout to use for the information. Images should either be centered above content or floated to the right.        Research that.
+
+5/15 - Layouts are set. Now its all filling in content.

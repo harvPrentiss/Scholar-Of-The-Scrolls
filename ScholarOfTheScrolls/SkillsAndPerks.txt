@@ -1,0 +1,57 @@
+MAGIC: Alteration, Conjuration, Destruction, Enchanting, Illusion, Restoration
+COMBAT: Archery, Block, Heavy Armor, One-handed, Smithing, Two-handed
+STEALTH: Alchemy, Light Armor, Lockpicking, Pikpocket, Sneak, Speech
+
+
+ALTERATION - Manipulates reality
+PERKS
+Novice Alteration - Novice level spells at half Magicka (0)
+Alteration Dual Casting - Dual casting overchrges the spell making it more powerful (20)
+Apprentice Alteration - Apprentice level spells at half Magicka (25)
+Magic Resistance - 1) Block 10% of spell's effect (30) 2) Block 20% of spell's effect (50) 3) Block 30% of spell's effect (70)
+Adept Alteration - Adept level spells at half Magicka (50)
+Expert Alteration - Expert level spells at half Magicka (75)
+Atronach - Absorb 30% of magicka from spells that hit you (100)
+Master Alteration - Master level spells at half Magicka (100)
+Stability - Alteration spells hae 50% greater duration (70)
+Mage Armor - 1) Protection spells are twice as strong if not wearing armor(30) 2) 2.5 as strong(50) 3) 3 as strong(70)
+
+SPELLS
+Candlelight - Creates a hovering light that followers the caster for 60 seconds (Novice) (21 cost)
+Oakflesh - Improves the caster's armor rating by 40pts for 60 seconds (Novice) (103 cost)
+Magelight - Ball of light that lasts 60 seconds and sticks where it hits (Apprentice) (84 cost)
+Stoneflesh - Improves the caster's armor rating by 60pts for 60 seconds (Apprentice) (194 cost)
+Detect Life - Nearby living creatures, not undead, machines or daedra, can be seen through walls (Adept) (100 cost per second)
+Ironflesh - Improves the caster's armor rating by 80pts for 60 seconds (Adept) (266 cost)
+Telekinesis - Can pull objects toward you from a distance and take it or throw it (Adept) (170 cost per second)
+Transmute - Transmute one piece of unrefined iron to silver or silver to gold (Adept) (100 cost)
+Waterbreathing - Can breathe underwater for 60 seconds (Adept) (222 cost)
+Detect Dead - Nearby dead can be seen through walls (Expert) (148 cost per second)
+Ebonyflesh - Improves the caster's armor rating by 100pts for 60 seconds (Expert) (341 cost)
+Paralyze - Targets that fail to resist are paralyzed for 10 seconds (Expert) (450 cost)
+Dragonhide - Caster ignores 80% of all physical damage for 30 seconds (Master) (837 cost)
+Mass Paralysis - All targets in the area that fail to resist are paralyzed for 15 seconds (Master) (937 cost)
+Equilibrium - Convert 25 points of health into magicka per second Caster can kill themselves this way (Novice) (0 cost)
+
+
+CONJURATION - Summon creatures and objects
+PERKS
+Novice Conjuration - Novice level spells at half Magicka (0)
+Apprentice Conjuration - Apprentice level spells at half Magicka (25)
+Adept Conjuration - Adept level spells at half Magicka (50)
+Expert Conjuration - Expert level spells at half Magicka (75)
+Master Conjuration - Master level spells at half Magicka (100)
+Conjuration Dual Casting - Dual casting overcharges the spelling allowing it to last longer (20)
+Mystic Binding - Bound weapons do more damage (20)
+Soul Stealer - Bound weapons cast soul trap on targets (30)
+Oblivion Binding - Bound weapons will banish summoned creatures and turn raised ones (50)
+Summoner - 1) Can summon atronachs or raise undead twice as far away (30) 2) Can summon atronachs or raise undead three times as far away (70)
+Atromancy - Double duration for conjured Atronachs (40)
+Elemental Potency - Conjured Atronachs are 50% more powerful (80)
+Twin Souls - You can have two tronachs or raised zombies (100)
+
+SPELLS
+Bound Sword - Creates a magic sword for 120 seconds (Novice) (93 cost)
+Conjure Familiar - Summons a familiar for 60 seconds (Novice) (107 cost)
+Raise Zombie - Reanimate a weak dead body to fight for 60 seconds (Novice) (103 cost)
+Bound Battleaxe - Creates a magic Battleaxe for 120 seconds (Apprentice) (169 cost) 
